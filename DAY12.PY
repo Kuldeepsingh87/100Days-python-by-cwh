@@ -18,4 +18,4 @@
 
 #quick quiz
 nm = "kuldeep"
-print(nm[-4:-2])
+print(nm[-4:-2])  

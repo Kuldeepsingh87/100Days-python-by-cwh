@@ -17,3 +17,8 @@ marks = [1,2,3,4]
 print(marks[-3])
 print(marks[len(marks)-3])
 
+#list comprehension
+lst = [i for i in range(10)]
+print(lst)
+lst = [i*i for i in range(10) if i%2==0]
+print(lst)
